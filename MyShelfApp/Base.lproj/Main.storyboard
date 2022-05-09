@@ -425,9 +425,9 @@
                                 </prototypes>
                             </tableView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FVz-9r-CLp">
-                                <rect key="frame" x="16" y="764" width="171" height="31"/>
+                                <rect key="frame" x="16" y="764" width="171" height="50"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="31" id="4Az-GX-mbu"/>
+                                    <constraint firstAttribute="height" constant="50" id="4Az-GX-mbu"/>
                                     <constraint firstAttribute="width" constant="171" id="DuZ-pu-SzU"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
@@ -437,10 +437,10 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lw2-bP-aM9">
-                                <rect key="frame" x="203" y="764" width="171" height="31"/>
+                                <rect key="frame" x="203" y="764" width="171" height="50"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="171" id="IyT-jw-IhR"/>
-                                    <constraint firstAttribute="height" constant="31" id="Xdf-XE-Tzw"/>
+                                    <constraint firstAttribute="height" constant="50" id="Xdf-XE-Tzw"/>
                                 </constraints>
                                 <color key="tintColor" red="0.18823529410000001" green="0.81960784310000001" blue="0.34509803919999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="Button"/>
